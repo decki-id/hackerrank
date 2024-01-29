@@ -1,0 +1,8 @@
+# generated
+node_modules
+venv
+
+# configurations & environment variables
+.env
+config.ini
+constant.py
